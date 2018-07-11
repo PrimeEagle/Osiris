@@ -1,0 +1,10 @@
+-----------
+does treeview find work?
+what about the lookin combo?
+at least make it invisible if tv is active
+
+-----------
+browse button for lookin?
+
+-----------
+test replace

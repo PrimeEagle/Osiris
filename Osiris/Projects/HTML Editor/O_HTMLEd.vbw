@@ -1,0 +1,8 @@
+frmHTMLEdit = 18, 19, 511, 490, C, 54, 57, 547, 528, C
+frmHTMLEditAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHTMLInsertHTML = 108, 114, 790, 465, C, 144, 152, 705, 623, C
+frmHTMLInsertTable = 126, 133, 808, 484, C, 126, 133, 687, 604, C
+frmHTMLSnap = 144, 152, 826, 503, C, 108, 114, 669, 585, C
+mDatabase = 18, 19, 579, 490, C
+mMain_HTMLEd = 126, 133, 687, 604, C
+mFiles = 0, 0, 0, 0, C

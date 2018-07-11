@@ -1,0 +1,14 @@
+the database must be opened in the code with a GLOBAL variable called "dbase"
+
+Must have table with same structure as "Nodes"
+
+All template table names must begin with TM_
+
+All Global Setup Table names must begin with GS_
+
+the following global constants are used in the code
+LARGE_ICON_TABLE
+SMALL_ICON_TABLE
+PREDEF_ITEM_TABLE
+NODE_TABLE
+DEFAULT_DATA_TABLE
